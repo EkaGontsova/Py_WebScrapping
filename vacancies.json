@@ -1,0 +1,107 @@
+[
+    {
+        "company_name": "ООО Траектория",
+        "city": "Санкт-Петербург, Лесная и еще 3",
+        "title": "Программист Python",
+        "salary": "от 50 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97331836?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "GSR РАБОТА",
+        "city": "Зеленоград",
+        "title": "Разработчик Python (backend)",
+        "salary": "до 270 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97836707?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Carbon Soft",
+        "city": "Москва, Проспект Вернадского",
+        "title": "Middle Python разработчик",
+        "salary": "150 000 – 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/94195694?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО Сэмили Косметик",
+        "city": "Москва",
+        "title": "Fullstack-разработчик (Python Developer) — Middle / Senior",
+        "salary": "150 000 – 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97034694?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО ЛИГРЕС",
+        "city": "Санкт-Петербург",
+        "title": "Middle Python developer",
+        "salary": "от 100 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97240453?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Точка",
+        "city": "Москва",
+        "title": "Senior Python-разработчик",
+        "salary": "до 470 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/96256140?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Tevian (ООО Технологии видеоанализа)",
+        "city": "Москва",
+        "title": "Middle Backend разработчик (Python)",
+        "salary": "200 000 – 285 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97734502?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Carbon Soft",
+        "city": "Москва",
+        "title": "Системный программист / разработчик Python",
+        "salary": "200 000 – 350 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/96002765?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО Селфсек",
+        "city": "Москва, Трубная и еще 2",
+        "title": "Middle Python developer",
+        "salary": "150 000 – 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/72687504?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО Соломон",
+        "city": "Санкт-Петербург",
+        "title": "Middle Python developer",
+        "salary": "от 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/94525580?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+        "city": "Санкт-Петербург, Петроградская и еще 1",
+        "title": "Разработчик Python (Middle+/Senior)",
+        "salary": "от 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/90604662?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО МедиаСофт",
+        "city": "Санкт-Петербург, Петроградская и еще 1",
+        "title": "Senior Python developer",
+        "salary": "до 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/86531354?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Точка",
+        "city": "Москва",
+        "title": "Валидатор моделей рисков",
+        "salary": "до 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97090543?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ГК АВТОРУСЬ",
+        "city": "Москва, Коньково",
+        "title": "Web разработчик",
+        "salary": "300 000 – 400 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/96604953?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Мокка",
+        "city": "Москва, Тульская",
+        "title": "Data scientist (Risk), remote",
+        "salary": "200 000 – 350 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/94715440?query=python%2C+django%2C+flask&hhtmFrom=vacancy_search_list"
+    }
+]
